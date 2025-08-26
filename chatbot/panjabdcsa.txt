@@ -1,0 +1,73 @@
+Panjab University | Overview
+-----------------------------
+- Established in 1882 in Lahore and currently located in Chandigarh. A prestigious institution offering diverse programs across sciences, engineering, arts, business, and law.
+- Emphasis on research infrastructure, interdisciplinary centers, and top national rankings.
+
+Panjab University | Brief History and Present Infrastructure
+-------------------------------------------------------------
+- One of the oldest Universities in India, the Panjab University (PU) initiated at Lahore in 1882, has a long tradition of pursuing excellence in teaching and research in science and technology, humanities, social sciences, performing arts and sports. The University supports excellence and innovation in academic programmes, promotes excellence in research, scholarship and teaching. The University is committed to attract and support the best students and faculty, who excel at teaching and research. 
+- In independent India, Panjab University with its Campus at Chandigarh and nearly 202 affiliated colleges in Punjab state and Chandigarh U.T., has served various societal needs with distinction. The glorious traditions of the University established during the period of more than 140 years of its long service to the nation since its inception are a source of inspiration for the present generation of faculty members and students. 
+- By virtue of its history, experience, achievements and philosophy, the Panjab University has a national character and it enjoys an international stature drawing both faculty and students from all over the country and different parts of the globe. Its faculty includes some of the most distinguished scientists and academicians. It continues to attract celebrated scholars at the campus. Over the years, the reputation of the Panjab University has grown to emerge as an institution at the pinnacle in innovative teaching, research and community outreach.
+- In Chandigarh, the newly built capital of Punjab, a beautiful red sandstone campus was designed for the Panjab University by Pierre Jeanneret under the general guidance of Le Corbusier. Panjab University moved here during 1958-1960. Till the re-organisation of Punjab in 1966, the University had its regional centres at Rohtak, Shimla and Jalandhar and its affiliated colleges were located in the States of Punjab, Haryana and Himachal Pradesh and the Union Territory of Chandigarh. With the re-organization of Punjab, the University became an Inter-State Body Corporate catering to the newly organized States of Haryana, Himachal Pradesh and Punjab and the Union Territory of Chandigarh. Gradually, the colleges of Himachal and Haryana were affiliated to the Universities in the respective states and the Panjab University was left with the affiliated colleges in the Union Territory of Chandigarh and some parts of Punjab. 
+- The Panjab University Campus at Chandigarh accommodates seventy four teaching and research departments/institutes/centres besides six independent Chairs for research. Furthermore, the university has 202 affiliated and 6 Constituent Colleges spread over Punjab and Chandigarh besides Regional Centres at Muktsar, Ludhiana, Hoshiarpur and Kauni. In addition, there is the Vishveshavaranand Vishwa Bandhu Institute of Sanskrit and Indological Studies at Hoshiarpur.
+
+Department of Computer Science & Applications (DCSA)
+----------------------------------------------------
+- The Computer Culture at the Panjab University dates back to 1966. An independent Centre for Computer Science and Applications (now a full fledged department) was set-up in 1983. The department aims at ingraining the spirit of ingenuity, innovativeness and technical competence in the students through rigorous competition and regular guidance. The department also caters to the need of users in the region and organizes programmes for teaching and research communities.
+- The Master of Computer Applications (MCA) (3 years full time course) was initiated in 1992-1993. Master of Computer Applications (3 year full time course) in Self Finance mode started in 2008 and Masters of Science (Honors School) under the framework of Computer Science was introduced in year 2004. Currently the department is running Master of Computer Applications (MCA) (2 years full time course). Master of Computer Applications (MCA) (2 years full time course) in Self Financed mode and Master of Science (Computer Science) under the framework of the Hon's School (02 years full time course). Admissions to these course are held through an annual entrance test conducted on All India basis by Panjab University. In addition, Ph.D. Program has been started from year 2005.
+- The students at the Department have the unique opportunity of working in various advanced development environments. The department has its own well-equipped library with over more than 10,000 books and resources for exclusive use of the students and the faculty. The library has separate magazine and journal sections. Various computer journals are available online through the University Library.
+- Institutional Development Plan (IDP) 2025: Expanding research, launching interdisciplinary centers (e.g., Data Science & AI), strengthening industry partnerships, and boosting patents, publications, and Ph.D. programs.
+
+Courses & Specializations
+-------------------------
+- MCA (2 years): Focuses on advanced computer applications and industry-ready skills.
+- M.Sc. (Honours) in Computer Science (Data Science specialization): Covers AI, ML, Big Data, Cloud, and Data Analytics.
+- Ph.D.: Research-focused program in advanced domains of Computer Science.
+
+- Value-added courses offered:
+  - Artificial Intelligence
+  - Emerging Technologies in Computer Science
+  - Green Computing
+  - Introduction to Data Science
+  - Mobile Application Development
+  - Python Programming
+  - Web Application Development
+
+Fee Details (Approximate)
+-------------------------
+- MCA: ₹40,000 – ₹1,40,000 per year (varies by category).
+- M.Sc. (CS – Data Science): ₹15,000 – ₹20,000 per year.
+- Ph.D.: ₹8,000 – ₹10,000 per year (as per UGC norms, with research funding opportunities).
+
+Lab & Research Facilities
+-------------------------
+- Multiple PC Labs equipped with Acer, HP Core i7, Core2Duo, and Core i5 systems.
+- Research Lab with specialized computing systems.
+- Servers: Dell PowerEdge, IBM System 3200 M3, HP ProLiant.
+- Printers: HP LaserJet, Canon series.
+- Projectors: LG, Sony, Casio models.
+- Licensed Software: Visual Studio, Turbo C, JDK, SQL Server, MATLAB, Red Hat Linux, MS Office.
+
+Department Infrastructure
+-------------------------
+- Fibre-optic Gigabit backbone interconnecting 38 buildings.
+- ~24 Mbps Internet connectivity (ERNET & Reliance).
+- High-performance computing (HPC) facilities with Sun workstations.
+- TIFAC ICOSER initiative enabling parallel computing.
+
+Recent Faculty Activities & Publications 
+----------------------------------------
+- Tech Utsav 2025 (Inter-college Tech Fest) — April 4, 2025
+- Expert talk by Dr. Vijay Kumar Mago (York University, Canada) — March 6, 2025
+- International Conference “Computing Advances in AI and ML” — Dec 16–17, 2024
+- National Technology Day lecture on Digital Marketing — May 11, 2024
+
+Placements
+----------
+- Placement Rate: ~85–90%
+- Average Package: ₹6.5 LPA
+- Top Package: ₹7–8 LPA
+- Recruiters: Infosys, Edifecs and other reputed IT firms.
+- Internship opportunities available in later semesters; some lead to full-time offers.
+- Department size: ~120 students (morning + evening batches).
+
