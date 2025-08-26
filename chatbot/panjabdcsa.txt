@@ -11,8 +11,8 @@ Panjab University | Brief History and Present Infrastructure
 - In Chandigarh, the newly built capital of Punjab, a beautiful red sandstone campus was designed for the Panjab University by Pierre Jeanneret under the general guidance of Le Corbusier. Panjab University moved here during 1958-1960. Till the re-organisation of Punjab in 1966, the University had its regional centres at Rohtak, Shimla and Jalandhar and its affiliated colleges were located in the States of Punjab, Haryana and Himachal Pradesh and the Union Territory of Chandigarh. With the re-organization of Punjab, the University became an Inter-State Body Corporate catering to the newly organized States of Haryana, Himachal Pradesh and Punjab and the Union Territory of Chandigarh. Gradually, the colleges of Himachal and Haryana were affiliated to the Universities in the respective states and the Panjab University was left with the affiliated colleges in the Union Territory of Chandigarh and some parts of Punjab. 
 - The Panjab University Campus at Chandigarh accommodates seventy four teaching and research departments/institutes/centres besides six independent Chairs for research. Furthermore, the university has 202 affiliated and 6 Constituent Colleges spread over Punjab and Chandigarh besides Regional Centres at Muktsar, Ludhiana, Hoshiarpur and Kauni. In addition, there is the Vishveshavaranand Vishwa Bandhu Institute of Sanskrit and Indological Studies at Hoshiarpur.
 
-Department of Computer Science & Applications (DCSA)
-----------------------------------------------------
+Department of Computer Science & Applications (DCSA) | Overview
+---------------------------------------------------------------
 - The Computer Culture at the Panjab University dates back to 1966. An independent Centre for Computer Science and Applications (now a full fledged department) was set-up in 1983. The department aims at ingraining the spirit of ingenuity, innovativeness and technical competence in the students through rigorous competition and regular guidance. The department also caters to the need of users in the region and organizes programmes for teaching and research communities.
 - The Master of Computer Applications (MCA) (3 years full time course) was initiated in 1992-1993. Master of Computer Applications (3 year full time course) in Self Finance mode started in 2008 and Masters of Science (Honors School) under the framework of Computer Science was introduced in year 2004. Currently the department is running Master of Computer Applications (MCA) (2 years full time course). Master of Computer Applications (MCA) (2 years full time course) in Self Financed mode and Master of Science (Computer Science) under the framework of the Hon's School (02 years full time course). Admissions to these course are held through an annual entrance test conducted on All India basis by Panjab University. In addition, Ph.D. Program has been started from year 2005.
 - The students at the Department have the unique opportunity of working in various advanced development environments. The department has its own well-equipped library with over more than 10,000 books and resources for exclusive use of the students and the faculty. The library has separate magazine and journal sections. Various computer journals are available online through the University Library.
@@ -46,7 +46,8 @@ Lab & Research Facilities
 - Servers: Dell PowerEdge, IBM System 3200 M3, HP ProLiant.
 - Printers: HP LaserJet, Canon series.
 - Projectors: LG, Sony, Casio models.
-- Licensed Software: Visual Studio, Turbo C, JDK, SQL Server, MATLAB, Red Hat Linux, MS Office.
+- Licensed Software: Visual Studio, Turbo C, JDK, PageMaker, TASM, LISP, SQL Server, MATLAB, Windows, Red Hat Linux, MS Office.
+
 
 Department Infrastructure
 -------------------------
@@ -71,3 +72,17 @@ Placements
 - Internship opportunities available in later semesters; some lead to full-time offers.
 - Department size: ~120 students (morning + evening batches).
 
+Contact Us
+----------
+Anuj Sharma
+Chairperson
+Department of Computer Science & Applications
+Top Floor
+C.I.L. Building
+Panjab University
+Sector 14
+Chandigarh, U.T. - 160014
+India
+
+Telephone: +91 172 2534063
+E-mail: chairpersondcsa@pu.ac.in
