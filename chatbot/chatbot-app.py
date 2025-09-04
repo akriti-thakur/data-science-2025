@@ -56,29 +56,40 @@ def faq_answer(user_input):
 
     TfidfVec = TfidfVectorizer(tokenizer=LemNormalize, stop_words='english', token_pattern=None)
     tfidf = TfidfVec.fit_transform(sent_tokens)
-    vals = cosine_similarity(tfidf[-1], tfidf)
-    idx = vals.argsort()[0][-2]
 
-    flat = vals.flatten()
-    flat.sort()
-    req_tfidf = flat[-2]
+    vals = cosine_similarity(tfidf[-1], tfidf)
+    similarities = vals.flatten()
+    similarities[-1] = -1  # ignore self-match
+
+    idx = similarities.argmax()
+    confidence = similarities[idx]
 
     sent_tokens.remove(user_input)
 
-    if req_tfidf == 0:
+    if confidence == 0:
         last_idx = None
         return None
     else:
         last_idx = idx
         return sent_tokens[idx]
+
     
-def tell_me_more():
+def tell_me_more(threshold=0.2):
     global last_idx
     if last_idx is not None and last_idx + 1 < len(sent_tokens):
-        last_idx += 1
-        return sent_tokens[last_idx]
+        # Compare current sentence with next one
+        TfidfVec = TfidfVectorizer(tokenizer=LemNormalize, stop_words='english', token_pattern=None)
+        tfidf = TfidfVec.fit_transform([sent_tokens[last_idx], sent_tokens[last_idx + 1]])
+        similarity = cosine_similarity(tfidf[0:1], tfidf[1:2])[0][0]
+
+        if similarity >= threshold:
+            last_idx += 1
+            return sent_tokens[last_idx]
+        else:
+            return None
     else:
         return None
+
 
 def response(user_input):
     intent = detect_intent(user_input.lower())
