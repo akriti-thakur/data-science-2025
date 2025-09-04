@@ -74,7 +74,7 @@ Placements
 
 Contact Us
 ----------
-Anuj Sharma
+- Anuj Sharma
 Chairperson
 Department of Computer Science & Applications
 Top Floor
@@ -83,6 +83,5 @@ Panjab University
 Sector 14
 Chandigarh, U.T. - 160014
 India
-
-Telephone: +91 172 2534063
-E-mail: chairpersondcsa@pu.ac.in
+- Telephone: +91 172 2534063
+- E-mail: chairpersondcsa@pu.ac.in
