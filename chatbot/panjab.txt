@@ -23,7 +23,6 @@ Courses & Specializations
 - MCA (2 years): Focuses on advanced computer applications and industry-ready skills.
 - M.Sc. (Honours) in Computer Science (Data Science specialization): Covers AI, ML, Big Data, Cloud, and Data Analytics.
 - Ph.D.: Research-focused program in advanced domains of Computer Science.
-
 - Value-added courses offered:
   - Artificial Intelligence
   - Emerging Technologies in Computer Science
@@ -56,8 +55,8 @@ Department Infrastructure
 - High-performance computing (HPC) facilities with Sun workstations.
 - TIFAC ICOSER initiative enabling parallel computing.
 
-Recent Faculty Activities & Publications 
-----------------------------------------
+Recent Faculty Activities  
+--------------------------
 - Tech Utsav 2025 (Inter-college Tech Fest) — April 4, 2025
 - Expert talk by Dr. Vijay Kumar Mago (York University, Canada) — March 6, 2025
 - International Conference “Computing Advances in AI and ML” — Dec 16–17, 2024
@@ -83,6 +82,5 @@ Panjab University
 Sector 14
 Chandigarh, U.T. - 160014
 India
-
 Telephone: +91 172 2534063
 E-mail: chairpersondcsa@pu.ac.in
