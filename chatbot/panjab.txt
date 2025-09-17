@@ -55,7 +55,7 @@ Department Infrastructure
 - High-performance computing (HPC) facilities with Sun workstations.
 - TIFAC ICOSER initiative enabling parallel computing.
 
-Recent Faculty Activities  
+Faculty Activities  
 --------------------------
 - Tech Utsav 2025 (Inter-college Tech Fest) — April 4, 2025
 - Expert talk by Dr. Vijay Kumar Mago (York University, Canada) — March 6, 2025
