@@ -4,9 +4,10 @@ import streamlit as st
 import import_ipynb
 import chatbot
 from chatbot import response
+from chatbot import BYE_INPUTS
 
 st.title("NLP DCSA Chatbot")
-st.write("Ask the bot about DCSA or PU.")
+st.write("Ask the bot about DCSA.")
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
@@ -23,7 +24,7 @@ if st.session_state.chat_active:
         st.session_state.chat_history.append(("You", user_input))
         st.session_state.chat_history.append(("Bot", bot_reply))
 
-        if user_input.lower() == "bye":
+        if user_input.lower() in BYE_INPUTS:
             st.session_state.chat_active = False
 else:
     st.info("The chat has ended. Refresh the page to start again.")

@@ -1,0 +1,234 @@
+# Panjab University - Department of Computer Science & Applications (DCSA)
+## Complete Information Guide
+
+---
+
+## *UNIVERSITY OVERVIEW*
+
+### Basic Information
+- *Full Name*: Panjab University
+- *Established*: 1882 (originally in Lahore)
+- *Current Location*: Chandigarh, India
+- *Type*: Inter-State Body Corporate
+- *Status*: One of India's oldest and most prestigious universities
+
+### Campus Details
+- *Location*: Chandigarh (Union Territory)
+- *Campus Design*: Red sandstone campus designed by Pierre Jeanneret under Le Corbusier's guidance
+- *Move to Chandigarh*: 1958-1960
+- *Total Departments*: 74 teaching and research departments/institutes/centres
+- *Research Chairs*: 6 independent research chairs
+- *Affiliated Colleges*: 202 colleges across Punjab and Chandigarh
+- *Constituent Colleges*: 6 colleges
+- *Regional Centres*: Muktsar, Ludhiana, Hoshiarpur, and Kauni
+
+### University Infrastructure
+- *Buildings*: 38 buildings interconnected with fiber-optic Gigabit backbone
+- *Internet Connectivity*: ~24 Mbps (ERNET & Reliance)
+- *Special Institute*: Vishveshavaranand Vishwa Bandhu Institute of Sanskrit and Indological Studies at Hoshiarpur
+
+---
+
+## *DEPARTMENT OF COMPUTER SCIENCE & APPLICATIONS (DCSA)*
+
+### Department History
+- *Computer Culture Started*: 1966
+- *Department Established*: 1983 (initially as Centre for Computer Science and Applications)
+- *Mission*: Instilling ingenuity, innovativeness, and technical competence through rigorous competition and guidance
+- *Service Area*: Caters to regional user needs and organizes programs for teaching and research communities
+
+### Department Location & Contact
+- *Address*: 
+  
+  Department of Computer Science & Applications
+  Top Floor, C.I.L. Building
+  Panjab University, Sector 14
+  Chandigarh, U.T. - 160014, India
+  
+- *Phone*: +91 172 2534063
+- *Email*: chairpersondcsa@pu.ac.in
+- *Chairperson*: Anuj Sharma
+
+---
+
+## *ACADEMIC PROGRAMS*
+
+### Current Programs Offered
+
+#### 1. Master of Computer Applications (MCA)
+- *Duration*: 2 years (full-time)
+- *Mode*: Regular and Self-Financed
+- *Started*: Regular mode in 1992-1993, Self-Financed mode in 2008
+- *Focus*: Advanced computer applications and industry-ready skills
+- *Admission*: All India entrance test conducted by Panjab University
+
+#### 2. Master of Science in Computer Science (Honours School)
+- *Duration*: 2 years (full-time)
+- *Specialization*: Data Science
+- *Started*: 2004
+- *Coverage*: AI, ML, Big Data, Cloud Computing, Data Analytics
+- *Admission*: All India entrance test conducted by Panjab University
+
+#### 3. Ph.D. Program
+- *Duration*: Research-based
+- *Started*: 2005
+- *Focus*: Advanced domains of Computer Science
+- *Research Areas*: Various advanced computer science domains
+
+### Value-Added Courses
+1. Artificial Intelligence
+2. Emerging Technologies in Computer Science
+3. Green Computing
+4. Introduction to Data Science
+5. Mobile Application Development
+6. Python Programming
+7. Web Application Development
+
+---
+
+## *FEE STRUCTURE* (Approximate Annual Fees)
+
+| Program | Fee Range | Notes |
+|---------|-----------|-------|
+| MCA | ₹40,000 - ₹1,40,000 | Varies by category (General/Reserved/Self-Financed) |
+| M.Sc. Computer Science (Data Science) | ₹15,000 - ₹20,000 | Honours School framework |
+| Ph.D. | ₹8,000 - ₹10,000 | As per UGC norms, research funding available |
+
+---
+
+## *INFRASTRUCTURE & FACILITIES*
+
+### Library Facilities
+- *Books*: Over 10,000 books and resources
+- *Access*: Exclusive use for students and faculty
+- *Sections*: Separate magazine and journal sections
+- *Online Resources*: Computer journals available through University Library
+
+### Laboratory Facilities
+
+#### Computing Systems
+- *PC Labs*: Multiple labs with modern systems
+- *Systems*: Acer, HP Core i7, Core2Duo, and Core i5 configurations
+- *Research Lab*: Specialized computing systems for research
+- *High-Performance Computing*: Sun workstations and HPC facilities
+
+#### Servers
+- Dell PowerEdge
+- IBM System 3200 M3
+- HP ProLiant
+
+#### Peripherals
+- *Printers*: HP LaserJet, Canon series
+- *Projectors*: LG, Sony, Casio models
+
+#### Licensed Software
+- Visual Studio
+- Turbo C
+- JDK (Java Development Kit)
+- PageMaker
+- TASM (Turbo Assembler)
+- LISP
+- SQL Server
+- MATLAB
+- Windows Operating System
+- Red Hat Linux
+- MS Office Suite
+
+### Network Infrastructure
+- *Connectivity*: Fiber-optic Gigabit backbone
+- *Coverage*: 38 buildings interconnected
+- *Internet Speed*: ~24 Mbps
+- *Providers*: ERNET & Reliance
+- *Special Initiatives*: TIFAC ICOSER for parallel computing
+
+---
+
+## *PLACEMENTS & CAREER OPPORTUNITIES*
+
+### Placement Statistics
+- *Placement Rate*: 85-90%
+- *Average Package*: ₹6.5 LPA (Lakhs Per Annum)
+- *Highest Package*: ₹7-8 LPA
+- *Student Strength*: ~120 students (morning + evening batches)
+
+### Major Recruiters
+- Infosys
+- Edifecs
+- Other reputed IT firms
+
+### Internship Opportunities
+- *Availability*: Later semesters
+- *Conversion*: Some internships lead to full-time job offers
+- *Industry Exposure*: Various advanced development environments
+
+---
+
+## *RECENT ACTIVITIES & EVENTS*
+
+### Upcoming Events 2025
+- *Tech Utsav 2025*: Inter-college Tech Fest - April 4, 2025
+- *Expert Talk*: Dr. Vijay Kumar Mago (York University, Canada) - March 6, 2025
+
+### Recent Events 2024
+- *International Conference*: "Computing Advances in AI and ML" - December 16-17, 2024
+- *National Technology Day*: Lecture on Digital Marketing - May 11, 2024
+
+---
+
+## *STRATEGIC DEVELOPMENT*
+
+### Institutional Development Plan (IDP) 2025
+- *Research Expansion*: Enhanced research capabilities and infrastructure
+- *New Centers*: Launching interdisciplinary centers (Data Science & AI focus)
+- *Industry Partnerships*: Strengthening collaboration with industry
+- *Academic Growth*: Boosting patents, publications, and Ph.D. programs
+- *Innovation Focus*: Advanced technology integration and development
+
+---
+
+## *ADMISSION INFORMATION*
+
+### Admission Process
+- *Method*: All India entrance test
+- *Conducted by*: Panjab University
+- *Programs Covered*: MCA and M.Sc. Computer Science
+- *Frequency*: Annual
+
+### Eligibility
+- *MCA*: Bachelor's degree with Mathematics/Statistics/Computer Science
+- *M.Sc. CS*: Bachelor's degree in relevant field
+- *Ph.D.*: Master's degree in Computer Science/Applications or related field
+
+---
+
+## *UNIQUE FEATURES*
+
+### Academic Excellence
+- *Teaching Approach*: Rigorous competition and regular guidance
+- *Research Focus*: Advanced development environments
+- *Faculty*: Distinguished scientists and academicians
+- *International Exposure*: Students and faculty from across India and globally
+
+### Historical Significance
+- *Legacy*: 140+ years of educational excellence
+- *Tradition*: Continuous pursuit of excellence in teaching and research
+- *Recognition*: National character with international stature
+- *Innovation*: Pioneer in computer education since 1966
+
+---
+
+## *QUICK FACTS*
+
+| Aspect | Details |
+|--------|---------|
+| *Department Age* | 41+ years (since 1983) |
+| *Computer Culture* | Since 1966 (59+ years) |
+| *Total Programs* | 3 (MCA, M.Sc. CS, Ph.D.) |
+| *Value-Added Courses* | 7 specialized courses |
+| *Lab Count* | Multiple PC Labs + Research Lab |
+| *Library Books* | 10,000+ resources |
+| *Placement Rate* | 85-90% |
+| *Average Salary* | ₹6.5 LPA |
+
+---
+
